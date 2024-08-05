@@ -8,7 +8,7 @@ A simple helper to serve ghost theme CDN content that would be served trough jsd
 
 ```bash
 pushd content/public/
-git clone https://github.com/ghost-jsdelivr cdn
+git clone https://github.com/jochumdev/ghost-jsdelivr.git cdn
 cd cdn
 npm install && npm run build
 popd
@@ -18,7 +18,7 @@ With [ncu](https://www.npmjs.com/package/npm-check-updates) installed:
 
 ```bash
 pushd content/public/
-git clone https://github.com/ghost-jsdelivr cdn
+git clone https://github.com/jochumdev/ghost-jsdelivr.git cdn
 cd cdn
 ncu -u && npm install && npm run build
 popd
