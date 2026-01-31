@@ -7,7 +7,7 @@
     "devDependencies": {
         "@tryghost/comments-ui": "^0.16.1",
         "@tryghost/portal": "^2.51.5",
-        "@tryghost/sodo-search": "^1.1.1",
+        "@tryghost/sodo-search": "^1.8.3",
         "gulp": "^5.0.0"
     }
 }
